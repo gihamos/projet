@@ -1,3 +1,4 @@
 # projet
 taquin
-ceci un est un projet programmé en c++ en utlisant Qtcreator,il's'agit d'une application de jeu du taquin.
+ceci un est un projet programmé en c++ en utlisant  la library cmake,il's'agit d'un jeu du taquin .
+vous devez installer ,qtcreator,c++, cmake, ainsi que toutes ces dependances 
